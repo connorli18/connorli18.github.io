@@ -1,4 +1,3 @@
-# connorli18.github.io
 <html>
   <body>
     <h1>Connor Li's Website</h1>
