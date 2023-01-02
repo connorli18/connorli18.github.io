@@ -2,7 +2,7 @@
 
 <html>
   <head>
-      <link rel="stylesheet" href="styles.css">
+      <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <h1 style="background-color:DodgerBlue;">Connor Li's Website</h1>
