@@ -1,7 +1,11 @@
 <html>
   <body>
     <h1>Connor Li's Website</h1>
+    <hr>
+    
     <h2>This is my website</h2>
+    <hr>
+    
     <p>I am Connor Li.</p>
     <p>This is my favorite website. <a href="https://www.google.com">Click here.</a> </p>
     <p>This is a photo of my dog.</p>
