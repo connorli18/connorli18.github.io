@@ -1,6 +1,15 @@
 
 
 <html>
+  <style> 
+  body{ 
+    background-color: linen;
+  } 
+  h1{ 
+    color: maroon; 
+    margin-left: 40px; 
+  } 
+  </style>
   <body>
     <h1 style="background-color:DodgerBlue;">Connor Li's Website</h1>
     <hr>
