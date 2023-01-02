@@ -5,6 +5,6 @@
     <p>I am Connor Li.</p>
     <p>This is my favorite website. <a href="https://www.google.com">Click here.</a> </p>
     <p>This is a photo of my dog.</p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Capybara_%28Hydrochoerus_hydrochaeris%29.JPG/440px-Capybara_%28Hydrochoerus_hydrochaeris%29.JPG">
+    <img src="https://media1.giphy.com/media/AQpUsaKCRD9gA/giphy.gif?cid=790b76117aebcb1c1a0936eac508146f85a327b3990be897&rid=giphy.gif&ct=g">
   </body>
 </html>
