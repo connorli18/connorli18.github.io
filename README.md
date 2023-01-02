@@ -2,7 +2,7 @@
 
 <html>
   <body>
-    <h1>Connor Li's Website</h1>
+    <h1 style="background-color:DodgerBlue;">Connor Li's Website</h1>
     <hr>
     <h2>This is my website</h2>
     <hr>
