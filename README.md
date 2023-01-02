@@ -1,15 +1,9 @@
 
 
 <html>
-  <style> 
-  body{ 
-    background-color: linen;
-  } 
-  h1{ 
-    color: maroon; 
-    margin-left: 40px; 
-  } 
-  </style>
+  <head>
+      <link rel="stylesheet" href="styles.css">
+  </head>
   <body>
     <h1 style="background-color:DodgerBlue;">Connor Li's Website</h1>
     <hr>
